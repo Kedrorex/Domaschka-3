@@ -1,0 +1,15 @@
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\bin\Debug\net6.0\HJ3.exe
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\bin\Debug\net6.0\HJ3.deps.json
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\bin\Debug\net6.0\HJ3.runtimeconfig.json
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\bin\Debug\net6.0\HJ3.dll
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\bin\Debug\net6.0\HJ3.pdb
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\obj\Debug\net6.0\HJ3.csproj.AssemblyReference.cache
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\obj\Debug\net6.0\HJ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\obj\Debug\net6.0\HJ3.AssemblyInfoInputs.cache
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\obj\Debug\net6.0\HJ3.AssemblyInfo.cs
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\obj\Debug\net6.0\HJ3.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\obj\Debug\net6.0\HJ3.dll
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\obj\Debug\net6.0\refint\HJ3.dll
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\obj\Debug\net6.0\HJ3.pdb
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\obj\Debug\net6.0\HJ3.genruntimeconfig.cache
+C:\Users\Vlad\OneDrive\Desktop\Student GB\Основны C#\Domashka#3\HJ3\obj\Debug\net6.0\ref\HJ3.dll
