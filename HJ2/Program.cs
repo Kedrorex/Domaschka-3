@@ -15,6 +15,8 @@ double Pront(string message)
   return result;
 }
 
+double D3()
+{
 double AX = Pront("Ведите координаты AX: ");
 double AY = Pront("Ведите координаты AY: ");
 double AZ = Pront("Ведите координаты AZ: ");
@@ -23,7 +25,20 @@ double BY = Pront("Ведите координаты BY: ");
 double BZ = Pront("Ведите координаты BZ: ");
 
 double d = Math.Round(Math.Sqrt((Math.Pow(AX - BX, 2)) + (Math.Pow(AY - BY, 2)) + (Math.Pow(AZ - BZ, 2))), 2); //2); (х А – х В) 2 + (у А – у В) 2+(z А – z В) 2
+
 System.Console.WriteLine(d);
+
+return d;
+}
+
+
+
+
+double coordinata_0 = D3();
+double coordinata_1 = D3();
+double coordinata_2 = D3();
+double coordinata_3 = D3();
+
 
 // double number = 5.321321321321;
 // double result1 = Math.Round(number,2);// Округление

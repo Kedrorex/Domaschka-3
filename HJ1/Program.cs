@@ -14,7 +14,8 @@
 //   int result = Convert.ToInt32(System.Console.ReadLine());
 //   return result;
 // }
-
+bool Polindrom ()
+{
 System.Console.Write("Введите число: ");
 string? namber = Console.ReadLine(); //ввод числа
 int n = namber.Length; // указание длины строки
@@ -36,8 +37,13 @@ for(int i = 0; i < n; i++) // проверка на полиндром
     break;
   }
 }
+return polindrom;
+}
 
-if (polindrom) // в случае окончании цикла, polindom = true.
+
+bool s = Polindrom();
+if (s) // в случае окончании цикла, polindom = true.
 {
   System.Console.Write(" является полиндромом");
 }
+

@@ -12,8 +12,15 @@ int Pront(string message)
   return result;
 }
 
-int number = Pront("Введите число: ");
-for (int i = 1; i <= number; i++)
+void Cub(int x)
 {
+for (int i = 1; i <= x; i++)
+ {
   System.Console.Write($"{Math.Pow(i,3)} ");
+ }
 }
+
+
+
+int number = Pront("Введите число: ");
+Cub(number);
